@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="A4 Poster.svg"
-   inkscape:export-filename="D:\Dev-Personal\SHM\Logo\poster.png"
+   inkscape:export-filename=".\output\poster.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -76,15 +76,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80485597"
-     inkscape:cx="69.508638"
-     inkscape:cy="590.14996"
+     inkscape:zoom="0.82386083"
+     inkscape:cx="92.266977"
+     inkscape:cy="526.1811"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1272"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      borderlayer="true"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -884,7 +884,7 @@
     </g>
     <path
        style="fill:none;fill-opacity:0.51963746;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.54330707;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 256.98359,-79.389213 230.12731,0 0,241.254673 -107.77519,76.01259 -122.35212,-76.01259 z"
+       d="m 256.98359,-41.389213 230.12731,0 0,241.254673 -107.77519,76.01259 -122.35212,-76.01259 z"
        id="rect6185"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -896,7 +896,7 @@
      style="display:inline">
     <g
        id="use3617"
-       transform="matrix(1.001386,0,0,1.001386,-2.7133577,242.77771)"
+       transform="matrix(0.98426749,0,0,0.98426749,3.6931074,274.72786)"
        inkscape:export-filename="D:\Dev-Personal\SHM\Logo\output\logo-name.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -941,7 +941,7 @@
        xml:space="preserve"
        id="flowRoot5005"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:46.89343262px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.74637316,0,0,0.74637316,-15.618322,136.61278)"><flowRegion
+       transform="matrix(0.74637316,0,0,0.74637316,-15.618322,166.61278)"><flowRegion
          id="flowRegion5007"><rect
            id="rect5009"
            width="929.3114"
