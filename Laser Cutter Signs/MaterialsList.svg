@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg226"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MaterialsList.svg"
+   inkscape:export-filename="C:\Users\passp\Documents\Dev\SHM\logo\LaserCutterSigns\MaterialsList.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs220">
+    <g
+       id="raypair">
+      <path
+         id="path4413"
+         stroke="none"
+         fill="black"
+         d="M -2,0 l -5,-135 h 14 l -5,135" />
+      <path
+         id="path4415"
+         transform="rotate(15)"
+         stroke="none"
+         fill="black"
+         d="M -2,0 l -3,-90 h 10 l -3,90" />
+    </g>
+    <g
+       id="triangle">
+      <path
+         id="path4418"
+         stroke-linejoin="round"
+         d="M 0,-330 l 280,490 h -560 z" />
+    </g>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5905"
+       id="radialGradient5911"
+       cx="361.42856"
+       cy="1049.505"
+       fx="361.42856"
+       fy="1049.505"
+       r="725.71429"
+       gradientTransform="matrix(0.28222222,0,0,0.14111111,3.2253819,202.89815)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5905">
+      <stop
+         id="stop5909"
+         offset="0"
+         style="stop-color:#ccffaa;stop-opacity:0;" />
+      <stop
+         id="stop5907"
+         offset="1"
+         style="stop-color:#ccffaa;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6192"
+       id="radialGradient6198"
+       cx="363.89005"
+       cy="524.68134"
+       fx="363.89005"
+       fy="524.68134"
+       r="394.55038"
+       gradientTransform="matrix(0.28222222,0,0,0.38899338,2.5307119,-53.55157)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6192">
+      <stop
+         id="stop6196"
+         offset="0"
+         style="stop-color:#dff2f6;stop-opacity:1" />
+      <stop
+         id="stop6194"
+         offset="1"
+         style="stop-color:#a1d7e5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-76.486037"
+     inkscape:cy="515.22695"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true" />
+  <metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:url(#radialGradient6198);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6188"
+       width="222.70177"
+       height="306.95499"
+       x="-6.1223192"
+       y="-2.9315033" />
+    <path
+       style="display:inline;fill:url(#radialGradient5911);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 310.04129,350.99498 A 204.8127,102.40635 0 0 1 105.22856,453.40135 204.8127,102.40635 0 0 1 -99.584147,350.99498 204.8127,102.40635 0 0 1 105.22856,248.58862 204.8127,102.40635 0 0 1 310.04129,350.99498 Z"
+       id="path5903"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.9236445"
+       y="71.348206"
+       id="text230"><tspan
+         sodipodi:role="line"
+         id="tspan228"
+         x="5.9236445"
+         y="71.348206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Solid Wood</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="77.962791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan232">Plywood</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="84.57737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan234">MDF, LDF</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="91.191956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan236">Paper, card</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="97.806541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan238">Cork</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="104.42112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan240">Acrylic, Lucite</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="111.03571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan242">Plexiglass, PMMA</tspan><tspan
+         id="tspan4487"
+         sodipodi:role="line"
+         x="5.9236445"
+         y="117.65028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Polycarbonate &lt; 1mm</tspan><tspan
+         sodipodi:role="line"
+         x="5.9236445"
+         y="124.26487"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan260">Delrin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.2834778"
+       y="62.654762"
+       id="text264"><tspan
+         sodipodi:role="line"
+         id="tspan262"
+         x="6.2834778"
+         y="62.654762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Can Be Cut</tspan></text>
+    <g
+       id="g4368"
+       style="fill:#782121"
+       transform="translate(0.21872243)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="5.6696444"
+         y="205.15178"
+         id="text298"><tspan
+           sodipodi:role="line"
+           x="5.6696444"
+           y="205.15178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332"
+           id="tspan296">Everything not on any of these lists</tspan><tspan
+           id="tspan435"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="211.76636"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Chlorinated plastics (PVC)</tspan><tspan
+           id="tspan437"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="218.38095"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Polycarbonate &gt;1mm</tspan><tspan
+           id="tspan439"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="224.99553"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">ABS</tspan><tspan
+           id="tspan441"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="231.61011"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">HDPE</tspan><tspan
+           id="tspan443"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="238.2247"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Polystyrene</tspan><tspan
+           id="tspan445"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="244.83928"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Polypropylene</tspan><tspan
+           id="tspan447"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="251.45386"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Fibreglass</tspan><tspan
+           id="tspan449"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="258.06845"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Carbon Fibre</tspan><tspan
+           id="tspan451"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="264.68301"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Pressure-treated wood</tspan><tspan
+           id="tspan453"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="271.29761"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Galvanised metal</tspan><tspan
+           id="tspan455"
+           sodipodi:role="line"
+           x="5.6696444"
+           y="277.9122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">Anything mirrored</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#782121;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="6.0647554"
+         y="196.08035"
+         id="text459"><tspan
+           sodipodi:role="line"
+           id="tspan457"
+           x="6.0647554"
+           y="196.08035"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#782121;stroke-width:0.26458332">BANNED</tspan></text>
+    </g>
+    <g
+       id="g4329"
+       transform="translate(-117.69271,77.775433)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="123.61636"
+         y="71.348206"
+         id="text493"><tspan
+           sodipodi:role="line"
+           x="123.61636"
+           y="71.348206"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           id="tspan491">Anything you can cut</tspan><tspan
+           id="tspan634"
+           sodipodi:role="line"
+           x="123.61636"
+           y="77.962791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Glass</tspan><tspan
+           id="tspan636"
+           sodipodi:role="line"
+           x="123.61636"
+           y="84.57737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Ceramic</tspan><tspan
+           id="tspan638"
+           sodipodi:role="line"
+           x="123.61636"
+           y="91.191956"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Stone</tspan><tspan
+           id="tspan640"
+           sodipodi:role="line"
+           x="123.61636"
+           y="97.806541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Anodized aluminium</tspan><tspan
+           id="tspan642"
+           sodipodi:role="line"
+           x="123.61636"
+           y="104.42112"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Painted metals</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="123.97619"
+         y="62.654762"
+         id="text497"><tspan
+           sodipodi:role="line"
+           id="tspan495"
+           x="123.97619"
+           y="62.654762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Can Be Etched</tspan></text>
+    </g>
+    <g
+       id="g4411"
+       transform="translate(14.967094,-11.570711)">
+      <g
+         id="g4402">
+        <use
+           height="100%"
+           width="100%"
+           transform="matrix(-1,0,0,1,180.13967,9.5366579e-5)"
+           id="use4163"
+           xlink:href="#path4157"
+           y="0"
+           x="0" />
+        <path
+           sodipodi:nodetypes="csscccccccccssssscccccccccccssssccssscsssscs"
+           inkscape:connector-curvature="0"
+           id="path4157"
+           d="M 31.346485,59.24092 C 30.839778,59.118717 30.370732,58.882759 30.18166,58.654939 30.057298,58.505092 29.509508,58.483571 25.765309,58.481428 l -4.274379,-0.0024 -2.376017,-2.891954 -2.376017,-2.891954 0.003,-13.573856 0.003,-13.573858 2.363046,-2.867605 2.363046,-2.867608 4.201408,0 4.201409,0 0.369945,-0.324815 c 0.481378,-0.422658 1.428305,-0.701192 2.038941,-0.599747 1.744658,0.289834 2.747588,2.030428 2.1181,3.675981 -0.219066,0.57266 -0.844512,1.198821 -1.45027,1.451922 -1.126089,0.47051 -2.756828,-0.05788 -3.279541,-1.062629 l -0.15629,-0.300416 -2.987446,0 -2.987447,0 -1.649482,1.993671 -1.649483,1.993668 -0.0031,12.472062 -0.0031,12.472059 1.663528,2.029839 1.663528,2.029835 2.923273,0 2.923273,0 0.260306,-0.409659 c 0.339363,-0.534072 0.569668,-0.732248 1.164547,-1.002083 0.95295,-0.432253 2.082052,-0.262398 2.870775,0.431861 1.101111,0.969237 1.19063,2.643039 0.200168,3.742716 -0.634884,0.704892 -1.680428,1.046041 -2.557557,0.834507 z m 1.030595,-0.978305 c 0.51387,-0.142732 1.131195,-0.822634 1.231271,-1.356082 0.09992,-0.532593 -0.280681,-1.32855 -0.799701,-1.672455 -1.056507,-0.700045 -2.522209,0.0962 -2.523317,1.370793 -6.62e-4,0.788553 0.39615,1.336672 1.166713,1.61149 0.512143,0.182652 0.445891,0.17934 0.925034,0.04625 z m 0.306951,-35.225642 c 0.688056,-0.355808 1.073757,-1.187514 0.881618,-1.901071 -0.511984,-1.901363 -3.28203,-1.524737 -3.280316,0.446005 0.0011,1.200054 1.331337,2.00702 2.398698,1.455066 z"
+           style="fill:#680895;fill-opacity:1;stroke-width:0.20684125" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.61577606px;line-height:125%;font-family:Akashi;-inkscape-font-specification:Akashi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20684125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="31.216688"
+         y="35.947578"
+         id="text4148"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4150"
+           x="31.216688"
+           y="35.947578"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:'Orbitron Light';stroke-width:0.20684125px">SHM Laser Cutter</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.13053703px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#680895;fill-opacity:1;stroke:none;stroke-width:0.20684125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.417812"
+         y="52.125267"
+         id="text4153"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4155"
+           x="35.417812"
+           y="52.125267"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:'Orbitron Light';fill:#680895;fill-opacity:1;stroke-width:0.20684125px">MATERIALS</tspan></text>
+    </g>
+    <g
+       id="g4455"
+       transform="matrix(0.1425479,0,0,0.1425479,156.20696,252.57163)">
+      <use
+         id="use4423"
+         xlink:href="#triangle"
+         style="fill:#ffff00;stroke:#ffff00;stroke-width:60"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <circle
+         id="circle4425"
+         r="45"
+         cy="0"
+         cx="0"
+         style="fill:#000000;stroke:none" />
+      <use
+         id="use4427"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4429"
+         transform="rotate(30)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4431"
+         transform="rotate(60)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4433"
+         transform="rotate(90)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4435"
+         transform="rotate(120)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4437"
+         transform="rotate(150)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4439"
+         transform="scale(-1)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4441"
+         transform="rotate(-150)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4443"
+         transform="rotate(-120)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4445"
+         transform="rotate(-90)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4447"
+         transform="rotate(-60)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use4449"
+         transform="rotate(-30)"
+         xlink:href="#raypair"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <path
+         id="path4451"
+         d="M 0,0 H 200"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:14" />
+      <use
+         id="use4453"
+         xlink:href="#triangle"
+         style="fill:none;stroke:#000000;stroke-width:30"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <text
+       id="text4543"
+       y="71.348206"
+       x="101.9755"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan4527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="71.348206"
+         x="101.9755"
+         sodipodi:role="line">Kapton</tspan><tspan
+         id="tspan4529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="77.962791"
+         x="101.9755"
+         sodipodi:role="line">Mylar</tspan><tspan
+         id="tspan4531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="84.57737"
+         x="101.9755"
+         sodipodi:role="line">Styrene (thin!)</tspan><tspan
+         id="tspan4533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="91.191956"
+         x="101.9755"
+         sodipodi:role="line">Depron</tspan><tspan
+         id="tspan4535"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="97.806541"
+         x="101.9755"
+         sodipodi:role="line">Natural-fibre cloth</tspan><tspan
+         id="tspan4537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="104.42112"
+         x="101.9755"
+         sodipodi:role="line">Vegetable-tanned Leather</tspan><tspan
+         id="tspan4539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="111.03571"
+         x="101.9755"
+         sodipodi:role="line">Magnet sheet</tspan><tspan
+         id="tspan4541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="117.65028"
+         x="101.9755"
+         sodipodi:role="line">PTFE (thin!)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mask"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -136.60926,-26.118316 0,493.417576 491.73915,0 0,-493.417576 z m 134.2508157,25.0222102 214.7995943,0 0,301.0003358 -214.7995943,0 z"
+       id="rect4302"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

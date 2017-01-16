@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg226"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CheckList.svg"
+   inkscape:export-filename="C:\Users\passp\Documents\Dev\SHM\logo\LaserCutterSigns\checklist.png"
+   inkscape:export-xdpi="600.02155"
+   inkscape:export-ydpi="600.02155">
+  <defs
+     id="defs220">
+    <g
+       id="raypair">
+      <path
+         id="path4413"
+         stroke="none"
+         fill="black"
+         d="M -2,0 l -5,-135 h 14 l -5,135" />
+      <path
+         id="path4415"
+         transform="rotate(15)"
+         stroke="none"
+         fill="black"
+         d="M -2,0 l -3,-90 h 10 l -3,90" />
+    </g>
+    <g
+       id="triangle">
+      <path
+         id="path4418"
+         stroke-linejoin="round"
+         d="M 0,-330 l 280,490 h -560 z" />
+    </g>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6192"
+       id="radialGradient6198"
+       cx="363.89005"
+       cy="524.68134"
+       fx="363.89005"
+       fy="524.68134"
+       r="394.55038"
+       gradientTransform="matrix(0.28222222,0,0,0.38899338,2.2548606,-53.79842)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6192">
+      <stop
+         id="stop6196"
+         offset="0"
+         style="stop-color:#dff2f6;stop-opacity:1" />
+      <stop
+         id="stop6194"
+         offset="1"
+         style="stop-color:#a1d7e5;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5905"
+       id="radialGradient5911"
+       cx="361.42856"
+       cy="1049.505"
+       fx="361.42856"
+       fy="1049.505"
+       r="725.71429"
+       gradientTransform="matrix(0.28222222,0,0,0.14111111,2.9495306,202.65129)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5905">
+      <stop
+         id="stop5909"
+         offset="0"
+         style="stop-color:#ccffaa;stop-opacity:0;" />
+      <stop
+         id="stop5907"
+         offset="1"
+         style="stop-color:#ccffaa;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="40.595753"
+     inkscape:cy="535.04064"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true" />
+  <metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#radialGradient6198);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6188"
+       width="222.70177"
+       height="306.95499"
+       x="-6.3981695"
+       y="-3.1783547" />
+    <path
+       style="display:inline;fill:url(#radialGradient5911);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 309.76544,350.74813 A 204.8127,102.40635 0 0 1 104.9527,453.1545 204.8127,102.40635 0 0 1 -99.860004,350.74813 204.8127,102.40635 0 0 1 104.9527,248.34176 204.8127,102.40635 0 0 1 309.76544,350.74813 Z"
+       id="path5903"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:6.35677862px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       x="15.946909"
+       y="70.707062"
+       id="text230"><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="70.707062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan260">You have been trained on the use of the laser</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="80.317314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan136">You know where the fire extinguisher is</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="89.927559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan134">Laser compartment is clean</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="99.537811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan130">Nothing is obstructing the movement of the laser</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="109.14806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan561">The Chiller is switched on</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="118.75831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan563">The ventilation hose is installed in the window</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="128.36856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan571">The Laser Power switch is OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;line-height:6.35677862px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       x="6.2754636"
+       y="62.352448"
+       id="text264"><tspan
+         sodipodi:role="line"
+         id="tspan262"
+         x="6.2754636"
+         y="62.352448"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115">Before Starting, make sure...</tspan></text>
+    <g
+       id="g4368"
+       style="fill:#ff0000"
+       transform="matrix(0.8655119,0,0,0.8655119,41.594463,52.808908)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:6.61458302px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="91.916542"
+         y="252.74149"
+         id="text459"><tspan
+           sodipodi:role="line"
+           id="tspan457"
+           x="91.916542"
+           y="252.74149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           dy="0">Violating any of these rules may</tspan><tspan
+           sodipodi:role="line"
+           x="91.916542"
+           y="262.74149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           id="tspan543">result in immediate banning from</tspan><tspan
+           sodipodi:role="line"
+           x="91.916542"
+           y="272.74149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           id="tspan545">using the laser.</tspan></text>
+    </g>
+    <g
+       id="g4411"
+       transform="translate(14.967094,-12.570711)">
+      <g
+         id="g4402">
+        <use
+           height="100%"
+           width="100%"
+           transform="matrix(-1,0,0,1,180.13967,9.5366579e-5)"
+           id="use4163"
+           xlink:href="#path4157"
+           y="0"
+           x="0" />
+        <path
+           sodipodi:nodetypes="csscccccccccssssscccccccccccssssccssscsssscs"
+           inkscape:connector-curvature="0"
+           id="path4157"
+           d="M 31.346485,59.24092 C 30.839778,59.118717 30.370732,58.882759 30.18166,58.654939 30.057298,58.505092 29.509508,58.483571 25.765309,58.481428 l -4.274379,-0.0024 -2.376017,-2.891954 -2.376017,-2.891954 0.003,-13.573856 0.003,-13.573858 2.363046,-2.867605 2.363046,-2.867608 4.201408,0 4.201409,0 0.369945,-0.324815 c 0.481378,-0.422658 1.428305,-0.701192 2.038941,-0.599747 1.744658,0.289834 2.747588,2.030428 2.1181,3.675981 -0.219066,0.57266 -0.844512,1.198821 -1.45027,1.451922 -1.126089,0.47051 -2.756828,-0.05788 -3.279541,-1.062629 l -0.15629,-0.300416 -2.987446,0 -2.987447,0 -1.649482,1.993671 -1.649483,1.993668 -0.0031,12.472062 -0.0031,12.472059 1.663528,2.029839 1.663528,2.029835 2.923273,0 2.923273,0 0.260306,-0.409659 c 0.339363,-0.534072 0.569668,-0.732248 1.164547,-1.002083 0.95295,-0.432253 2.082052,-0.262398 2.870775,0.431861 1.101111,0.969237 1.19063,2.643039 0.200168,3.742716 -0.634884,0.704892 -1.680428,1.046041 -2.557557,0.834507 z m 1.030595,-0.978305 c 0.51387,-0.142732 1.131195,-0.822634 1.231271,-1.356082 0.09992,-0.532593 -0.280681,-1.32855 -0.799701,-1.672455 -1.056507,-0.700045 -2.522209,0.0962 -2.523317,1.370793 -6.62e-4,0.788553 0.39615,1.336672 1.166713,1.61149 0.512143,0.182652 0.445891,0.17934 0.925034,0.04625 z m 0.306951,-35.225642 c 0.688056,-0.355808 1.073757,-1.187514 0.881618,-1.901071 -0.511984,-1.901363 -3.28203,-1.524737 -3.280316,0.446005 0.0011,1.200054 1.331337,2.00702 2.398698,1.455066 z"
+           style="fill:#680895;fill-opacity:1;stroke-width:0.20684125" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.61577606px;line-height:125%;font-family:Akashi;-inkscape-font-specification:Akashi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20684125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="89.862747"
+         y="35.947578"
+         id="text4148"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4150"
+           x="89.862747"
+           y="35.947578"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:'Orbitron Light';text-align:center;text-anchor:middle;stroke-width:0.20684125px">SHM Laser Cutter</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.13053703px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#680895;fill-opacity:1;stroke:none;stroke-width:0.20684125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="89.777596"
+         y="52.125267"
+         id="text4153"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4155"
+           x="89.777596"
+           y="52.125267"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:'Orbitron Light';text-align:center;text-anchor:middle;fill:#680895;fill-opacity:1;stroke-width:0.20684125px">CHECKLIST</tspan></text>
+    </g>
+    <text
+       id="text152"
+       y="152.7966"
+       x="15.946909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:6.35677862px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       xml:space="preserve"><tspan
+         id="tspan150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         y="152.7966"
+         x="15.946909"
+         sodipodi:role="line">You stay near the cutter, and monitor the progress</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         y="162.40685"
+         x="15.946909"
+         sodipodi:role="line"
+         id="tspan167">Nothing is on fire</tspan></text>
+    <text
+       id="text156"
+       y="144.44202"
+       x="6.2754636"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;line-height:6.35677862px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         y="144.44202"
+         x="6.2754636"
+         id="tspan154"
+         sodipodi:role="line">Whilst Cutting, make sure...</tspan></text>
+    <g
+       id="g449"
+       transform="matrix(0.96102488,0,0,0.96102488,0.2368852,2.1396613)">
+      <circle
+         transform="scale(-1)"
+         style="fill:#800080;stroke:none;stroke-width:0.01983103"
+         cx="-10.044064"
+         cy="-68.69413"
+         r="0.89239651"
+         id="circle171" />
+      <g
+         style="fill:#800080"
+         transform="matrix(-0.01983103,0,0,-0.01983103,10.044063,68.69413)"
+         id="use173">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path345"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path347"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(-0.01717418,-0.00991552,0.00991552,-0.01717418,10.044063,68.69413)"
+         id="use175">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path351"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path353"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(-0.00991552,-0.01717418,0.01717418,-0.00991552,10.044063,68.69413)"
+         id="use177">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path357"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path359"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0,-0.01983103,0.01983103,0,10.044063,68.69413)"
+         id="use179">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path363"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path365"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0.00991552,-0.01717418,0.01717418,0.00991552,10.044063,68.69413)"
+         id="use181">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path339"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path341"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0.01717418,-0.00991552,0.00991552,0.01717418,10.044063,68.69413)"
+         id="use183">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path369"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path371"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0.01983103,0,0,0.01983103,10.044063,68.69413)"
+         id="use185">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path375"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path377"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0.01717418,0.00991552,-0.00991552,0.01717418,10.044063,68.69413)"
+         id="use187">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path381"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path383"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0.00991552,0.01717418,-0.01717418,0.00991552,10.044063,68.69413)"
+         id="use189">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path387"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path389"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(0,0.01983103,-0.01983103,0,10.044063,68.69413)"
+         id="use191">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path393"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path395"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(-0.00991552,0.01717418,-0.01717418,-0.00991552,10.044063,68.69413)"
+         id="use193">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path399"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path401"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <g
+         style="fill:#800080"
+         transform="matrix(-0.01717418,0.00991552,-0.00991552,-0.01717418,10.044063,68.69413)"
+         id="use195">
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path405"
+           d="M -2,0 -7,-135 H 7 L 2,0" />
+        <path
+           style="fill:#800080;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path407"
+           transform="rotate(15)"
+           d="M -2,0 -5,-90 H 5 L 2,0" />
+      </g>
+      <path
+         style="fill:#800080;stroke:#800080;stroke-width:0.27763444"
+         inkscape:connector-curvature="0"
+         d="M 10.044063,68.69413 H 6.0778564"
+         id="path197" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g449"
+       id="use453"
+       transform="translate(0,9.6836836)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use453"
+       id="use455"
+       transform="translate(0,9.6836711)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g449"
+       id="use457"
+       transform="translate(0,29.051009)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,72.66649)"
+       id="use539"
+       xlink:href="#use453"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,92.363401)"
+       id="use541"
+       xlink:href="#g449"
+       y="0"
+       x="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:6.35677862px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       x="15.946909"
+       y="189.01283"
+       id="text551"><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="189.01283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan547">You clean up any bits of material in/under the laser</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="198.62308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan569">All 4 laser switches are OFF</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="208.23334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan573">The main switches (on the wall) are OFF</tspan><tspan
+         id="tspan549"
+         sodipodi:role="line"
+         x="15.946909"
+         y="217.84358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115">Nothing is on fire</tspan><tspan
+         sodipodi:role="line"
+         x="15.946909"
+         y="227.45383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78056431px;line-height:9.61024857px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115"
+         id="tspan4324">If you notice any problems, report them</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;line-height:6.35677862px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25427115"
+       x="6.2754636"
+       y="180.65826"
+       id="text555"><tspan
+         sodipodi:role="line"
+         id="tspan553"
+         x="6.2754636"
+         y="180.65826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.17084599px;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25427115">After Cutting, make sure...</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use453"
+       id="use557"
+       transform="translate(0,108.88273)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g449"
+       id="use559"
+       transform="translate(0,128.1664)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,38.734684)"
+       id="use565"
+       xlink:href="#g449"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g449"
+       id="use567"
+       transform="translate(0,48.418366)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,58.102033)"
+       id="use575"
+       xlink:href="#g449"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,137.76639)"
+       id="use577"
+       xlink:href="#g449"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g449"
+       id="use579"
+       transform="translate(0,147.36638)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,156.96638)"
+       id="use4326"
+       xlink:href="#g449"
+       y="0"
+       x="0" />
+    <g
+       id="g4366"
+       transform="matrix(0.05100803,0,0,0.05100803,11.834294,263.88029)">
+      <path
+         d="M 614.57,504.94 335.17,21 C 330.79,13.412 322.7,8.738 313.94,8.738 c -8.76,0 -16.85,4.674 -21.23,12.258 L 13.3,504.936 c -4.375,7.58 -4.375,16.93 0.003,24.52 4.379,7.58 12.472,12.25 21.23,12.25 l 558.81,0 c 8.76,0 16.86,-4.67 21.23,-12.25 4.38,-7.59 4.38,-16.94 0,-24.52 z"
+         id="path2231"
+         inkscape:connector-curvature="0"
+         style="fill:#ea0000" />
+      <polygon
+         points="533.9,482.88 313.94,101.89 93.977,482.88 "
+         id="polygon2233"
+         style="fill:#ffffff" />
+      <path
+         d="m 291.87,343.36 c 1.21,11.49 3.21,20.04 6.02,25.66 2.81,5.63 7.82,8.43 15.04,8.43 l 2.01,0 c 7.22,0 12.24,-2.8 15.04,-8.43 2.81,-5.62 4.82,-14.17 6.02,-25.66 l 6.42,-88.75 c 1.21,-17.3 1.81,-29.71 1.81,-37.25 0,-10.25 -2.91,-18.25 -8.73,-23.99 -5.53,-5.46 -13.38,-8.59 -21.56,-8.59 -8.18,0 -16.04,3.13 -21.57,8.59 -5.81,5.74 -8.72,13.74 -8.72,23.99 0,7.54 0.6,19.95 1.8,37.25 l 6.42,88.75 z"
+         id="path2235"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="30.747"
+         cx="313.94"
+         cy="430.79001"
+         id="circle2237" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mask"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35433072;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -135.80291,-26.311963 0,493.417583 491.73915,0 0,-493.417583 z m 134.2508122,25.0222038 214.7995978,0 0,301.0003492 -214.7995978,0 z"
+       id="rect4302"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>
